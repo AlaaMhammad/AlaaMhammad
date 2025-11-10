@@ -63,10 +63,10 @@ I love building **responsive, high-performance, and user-friendly websites** usi
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="www.linkedin.com/in/alaa2003" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="alaamhammad2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
