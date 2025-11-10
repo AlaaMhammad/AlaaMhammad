@@ -1,6 +1,6 @@
 <!-- Header with profile photo -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" alt="Alaa Aldeen Mohamed AlDahdar"/>
+  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/144788318?u=5e06228885cdc6380e66c8651089f808c4b28bd4&v=4)" width="120" style="border-radius: 50%;" alt="Alaa Aldeen Mohamed AlDahdar"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alaa Eldin Mohammed AlDahdar</h1>
