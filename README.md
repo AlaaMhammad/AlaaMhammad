@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://i.ibb.co/Q7gXcgJ6/1.png" 
        width="250"
-       height="250"
        alt="Alaa Eldin Mohammed Al-Dahdar"/>
   
 </p>
