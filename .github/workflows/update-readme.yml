@@ -1,0 +1,22 @@
+name: Update README with latest repos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # كل 12 ساعة
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README with latest repos
+        uses: jamesgeorge007/github-activity-readme@v0.3.0
+        with:
+          GH_USERNAME: AlaaMhammad
+      - run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Update Latest Projects" || exit 0
+          git push
