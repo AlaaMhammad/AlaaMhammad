@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://i.ibb.co/8wH27VF/image.png" 
+  <img src="https://ibb.co/nqGR0GwD" 
        width="150" 
        style="border-radius: 50%; object-fit: cover; border: 3px solid #00bfff;" 
        alt="Alaa Eldin Mohammed Al-Dahdar"/>
