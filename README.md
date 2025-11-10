@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/a8018675-212e-4521-90e5-d1cce3303ac8" 
        width="150" 
        style="border-radius: 50%; object-fit: cover; border: 3px solid #00bfff;" 
-       alt="Alaa Aldeen Mohamed AlDahdar"/>
+       alt="Alaa Eldin Mohammed Al-Dahdar"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alaa Eldin Mohammed AlDahdar</h1>
