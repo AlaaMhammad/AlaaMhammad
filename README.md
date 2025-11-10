@@ -1,7 +1,9 @@
-<!-- Header with profile photo -->
-
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8018675-212e-4521-90e5-d1cce3303ac8" width="120" style="border-radius: 50%; object-fite: cover" alt="Alaa Aldeen Mohamed AlDahdar"/>
+  <img src="https://github.com/user-attachments/assets/a8018675-212e-4521-90e5-d1cce3303ac8" 
+       width="150" 
+       style="border-radius: 50%; object-fit: cover; border: 3px solid #00bfff;" 
+       alt="Alaa Aldeen Mohamed AlDahdar"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alaa Eldin Mohammed AlDahdar</h1>
@@ -10,16 +12,15 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate **Computer Systems Engineer** specializing in **web development and UI/UX design**.  
+I'm a passionate **Computer Systems Engineer** specializing in **full-stack web development**.  
 I love building **responsive, high-performance, and user-friendly websites** using modern technologies.
 
 ---
 
 ### 🧠 What I Do
 - Develop and design modern, responsive web interfaces.  
-- Work with **HTML, CSS, SASS, Bootstrap, JavaScript, React, PHP (Laravel), and MySQL**.  
-- Create attractive and intuitive **UI/UX** experiences.  
-- Optimize website performance using advanced techniques.  
+- Work with **HTML, CSS, SASS, Bootstrap, JavaScript, React, PHP (Laravel), MySQL, and RESTful APIs**.  
+- Optimize website performance using best practices and modern tools.  
 - Collaborate with teams to turn design ideas into reality.  
 - Stay updated with the latest trends in web design and development.
 
@@ -39,11 +40,21 @@ I love building **responsive, high-performance, and user-friendly websites** usi
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-4DB33D?style=for-the-badge&logo=api&logoColor=white)
+
+---
+
+### 🔗 API Development Skills
+- Design and develop **RESTful APIs** using **Laravel** and **PHP**.  
+- Implement **authentication & authorization** (JWT, Sanctum, Passport).  
+- Create **clean, versioned, and well-documented API endpoints**.  
+- Test APIs using **Postman** and integrate **Swagger/OpenAPI** for documentation.  
+- Ensure **secure and scalable** API architecture.
 
 ---
 
 ### 🌟 What Sets Me Apart
-- Strong experience in **front-end & UI/UX design**.  
+- Strong experience in **front-end & back-end** development.  
 - Dedication to delivering **accurate and professional results**.  
 - Competitive pricing and **clear communication**.  
 - Deep understanding of **client goals and user needs**.  
@@ -62,12 +73,18 @@ I love building **responsive, high-performance, and user-friendly websites** usi
 
 ---
 
+### 🧩 Latest Projects
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📫 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/alaa2003" target="_blank">
+  <a href="https://www.linkedin.com/in/alaa2003" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="alaamhammad2003@gmail.com">
+  <a href="mailto:alaamhammad2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
