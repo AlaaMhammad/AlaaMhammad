@@ -1,12 +1,13 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8018675-212e-4521-90e5-d1cce3303ac8" 
+  <img src="https://i.ibb.co/xqxR6tQd/PARSONAL.jpg" 
        width="150" 
        style="border-radius: 50%; object-fit: cover; border: 3px solid #00bfff;" 
        alt="Alaa Eldin Mohammed Al-Dahdar"/>
+  
 </p>
 
-<h1 align="center">Hi 👋, I'm Alaa Eldin Mohammed AlDahdar</h1>
+<h1 align="center">Hi 👋, I'm Alaa Eldin Mohammed Al-Dahdar</h1>
 <h3 align="center">💻 Computer Systems Engineer | Full-Stack Web Developer (Laravel & React)</h3>
 
 ---
