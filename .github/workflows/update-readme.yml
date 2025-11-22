@@ -1,27 +1,27 @@
-name: Update README with latest repos
+# name: Update README with latest repos
 
-on:
-  schedule:
-    - cron: "0 */12 * * *" # كل 12 ساعة
-  workflow_dispatch: # لتشغيله يدويًا
+# on:
+#   schedule:
+#     - cron: "0 */12 * * *" # كل 12 ساعة
+#   workflow_dispatch: # لتشغيله يدويًا
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    steps:
-      - uses: actions/checkout@v3
+# jobs:
+#   update:
+#     runs-on: ubuntu-latest
+#     env:
+#       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#     steps:
+#       - uses: actions/checkout@v3
 
-      - name: Update README with latest repos
-        uses: jamesgeorge007/github-activity-readme@v0.3.0
-        with:
-          GH_USERNAME: AlaaMhammad
+#       - name: Update README with latest repos
+#         uses: jamesgeorge007/github-activity-readme@v0.3.0
+#         with:
+#           GH_USERNAME: AlaaMhammad
 
-      - name: Commit & Push changes
-        run: |
-          git config --global user.name 'AlaaMhammad'
-          git config --global user.email 'alaamhammad2003@gmail.com'
-          git add .
-          git commit -m "Update Latest Projects" || exit 0
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+#       - name: Commit & Push changes
+#         run: |
+#           git config --global user.name 'AlaaMhammad'
+#           git config --global user.email 'alaamhammad2003@gmail.com'
+#           git add .
+#           git commit -m "Update Latest Projects" || exit 0
+#           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
