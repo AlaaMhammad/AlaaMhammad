@@ -73,12 +73,6 @@ I love building **responsive, high-performance, and user-friendly websites** usi
 
 ---
 
-### 🧩 Latest Projects
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/alaa2003" target="_blank">
