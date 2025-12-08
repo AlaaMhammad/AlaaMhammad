@@ -64,7 +64,7 @@ I love building **responsive, high-performance, and user-friendly websites** usi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaMhammad&show_icons=true&theme=tokyonight" alt="Alaa's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=AlaaMhammad&theme=tokyonight" alt="Alaa's GitHub stats" />
 </p>
 
 <p align="center">
