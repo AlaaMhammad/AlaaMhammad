@@ -70,6 +70,11 @@ I love building **responsive, high-performance, and user-friendly websites** usi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaMhammad&theme=tokyonight" alt="Alaa's GitHub streak" /> 
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlaaMhammad&theme=tokyonight" alt="Alaa's GitHub streak" />
+</p>
+
 ---
 
 ### 📫 Connect with Me
