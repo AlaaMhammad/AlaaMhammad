@@ -71,27 +71,6 @@ I love building **responsive, high-performance, and user-friendly websites** usi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaMhammad&theme=tokyonight" alt="Alaa's GitHub streak" /> 
 </p>
 
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-  <!-- Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=AlaaMhammad&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="180"
-  />
-
-  <!-- Stats -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlaaMhammad&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-
-</div>
-
 ---
 
 ### 📫 Connect with Me
