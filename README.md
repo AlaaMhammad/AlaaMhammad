@@ -6,7 +6,7 @@
   
 </p>
 
-<h1 align="center">Hi 👋, I'm Alaa Eldin Mohammed Al-Dahdar</h1>
+<h1 align="center">Hi 👋, I'm Alaa Eldin Mohammed Al-Dohdar</h1>
 <h3 align="center">💻 Computer Systems Engineer | Full-Stack Web Developer (Laravel & React)</h3>
 
 ---
