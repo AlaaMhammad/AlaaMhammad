@@ -37,9 +37,9 @@ I'm **Alaa Eldin Mohammed Al-Dohdar**, a **Computer Systems Engineering graduate
 
 ### ✦ Selected projects
 
-<!-- Custom graphics below are conceptual UI illustrations, not screenshots from the live applications. -->
+<!-- Branded project covers. Live project links are provided; covers are not screenshots. -->
 
-<a href="https://www.workflownets.com/"><img src="./assets/workflow-dashboard.svg" width="100%" alt="Conceptual dark UI illustration for the WorkFlow SaaS platform"/></a>
+<a href="https://www.workflownets.com/"><img src="./assets/workflow-cover.svg" width="100%" alt="Branded cover for WorkFlow SaaS platform"/></a>
 
 **[WorkFlow](https://www.workflownets.com/) — AI-Powered Project & Team Management SaaS** · *Backend Developer & Team Leader*
 
@@ -51,7 +51,7 @@ Multi-tenant platform for projects, tasks, employees, meetings, clients, and fin
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://labbaass.com/"><img src="./assets/clinic-dashboard.svg" width="100%" alt="Conceptual UI artwork for the clinic management system"/></a>
+<a href="https://labbaass.com/"><img src="./assets/clinic-cover.svg" width="100%" alt="Branded cover for clinic management system"/></a>
 
 **[Clinic Management System](https://labbaass.com/)**
 
@@ -62,7 +62,7 @@ Healthcare scheduling, clinic administration, and responsive operational workflo
 </td>
 <td width="50%" valign="top">
 
-<a href="https://managment.hoskadev.com/"><img src="./assets/enterprise-dashboard.svg" width="100%" alt="Conceptual UI artwork for the enterprise project management system"/></a>
+<a href="https://managment.hoskadev.com/"><img src="./assets/enterprise-cover.svg" width="100%" alt="Branded cover for enterprise project management system"/></a>
 
 **[Enterprise Project Management](https://managment.hoskadev.com/)**
 
