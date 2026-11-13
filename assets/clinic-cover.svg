@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 300" role="img" aria-label="Clinic Management project cover">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090C15"/><stop offset=".55" stop-color="#151425"/><stop offset="1" stop-color="#231537"/></linearGradient><radialGradient id="glow"><stop stop-color="#62D9DC" stop-opacity=".24"/><stop offset="1" stop-color="#62D9DC" stop-opacity="0"/></radialGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#D8B4FE" stroke-opacity=".07"/></pattern></defs>
+<rect width="950" height="300" rx="18" fill="url(#bg)"/><rect width="950" height="300" rx="18" fill="url(#grid)"/>
+<circle cx="768" cy="148" r="210" fill="url(#glow)"/><g fill="none" stroke="#62D9DC" stroke-opacity=".42"><rect x="657" y="41" width="212" height="212" rx="36" transform="rotate(12 763 147)"/><rect x="686" y="70" width="156" height="156" rx="30" transform="rotate(-15 764 148)"/><circle cx="763" cy="149" r="60"/></g>
+<text x="763" y="180" text-anchor="middle" font-family="Arial" font-size="84" font-weight="bold" fill="#62D9DC">+</text>
+<text x="49" y="54" font-family="Arial" font-weight="bold" font-size="13" letter-spacing="3" fill="#62D9DC">SELECTED WORK / PRODUCT</text>
+<text x="47" y="124" font-family="Arial" font-weight="bold" font-size="55" fill="#F7F3FF">Clinic Management</text>
+<path d="M50 150H500" stroke="#62D9DC" stroke-width="2" stroke-opacity=".7"/>
+<text x="49" y="190" font-family="Arial" font-size="15" letter-spacing=".8" fill="#B2AEC8">HEALTHCARE • SCHEDULING / OPERATIONS</text><rect x="50" y="225" width="126" height="29" rx="9" fill="#211E32" stroke="#3B344F"/><text x="65" y="244" fill="#62D9DC" font-size="11" font-family="Arial" font-weight="bold">PATIENTS</text><rect x="187" y="225" width="126" height="29" rx="9" fill="#211E32" stroke="#3B344F"/><text x="202" y="244" fill="#62D9DC" font-size="11" font-family="Arial" font-weight="bold">APPOINTMENTS</text><rect x="324" y="225" width="126" height="29" rx="9" fill="#211E32" stroke="#3B344F"/><text x="339" y="244" fill="#62D9DC" font-size="11" font-family="Arial" font-weight="bold">ADMIN</text>
+<rect x="1" y="1" width="948" height="298" rx="17" stroke="#48365A" fill="none"/>
+</svg>
