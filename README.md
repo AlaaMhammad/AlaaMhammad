@@ -1,108 +1,153 @@
 <div align="center">
 
-<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0717,50:33135B,100:8B5CF6&height=5&section=header" alt="Purple accent" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090414,45:251043,100:6D28D9&height=185&section=header&text=ALAA%20ELDIN%20AL-DOHDAR&fontSize=33&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=BACKEND%20ENGINEER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=55" alt="Alaa Eldin Al-Dohdar banner" width="100%"/>
+
+<img src="https://i.ibb.co/Q7gXcgJ6/1.png" width="155" alt="Alaa Eldin Mohammed Al-Dohdar"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2700&pause=900&color=BC91FF&center=true&vCenter=true&width=600&height=45&lines=Computer+Systems+Engineer;Laravel+%7C+React+%7C+SaaS+Architecture;Building+AI-Powered+Products;Engineering+Scalable+REST+APIs" alt="Animated developer specialties"/>
 
 <br/>
 
-<img src="https://i.ibb.co/Q7gXcgJ6/1.png" width="160" alt="Alaa Eldin Mohammed Al-Dohdar"/>
+<a href="https://www.linkedin.com/in/alaa2003"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://brightgaza.com/talents/477"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:alaamhammad2003@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<h1>Hey, I'm Alaa Eldin Al-Dohdar 👋</h1>
+<br/><br/>
 
-**Computer Systems Engineer · Backend Engineer · Full-Stack Developer**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&height=42&lines=Building+scalable+Laravel+applications;Engineering+secure+APIs+and+SaaS+platforms;Making+AI+useful+in+real-world+software" alt="Animated introduction"/>
-
-<p>
-<a href="https://www.linkedin.com/in/alaa2003"><img src="https://img.shields.io/badge/LinkedIn-6335A4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://brightgaza.com/talents/477"><img src="https://img.shields.io/badge/Portfolio-6335A4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:alaamhammad2003@gmail.com"><img src="https://img.shields.io/badge/Email-6335A4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<sub>📍 Gaza, Palestine · Open to remote opportunities</sub>
+<img src="https://komarev.com/ghpvc/?username=AlaaMhammad&label=PROFILE+VIEWS&color=6D28D9&style=flat-square" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Based_in-Gaza%2C_Palestine-251043?style=flat-square" alt="Gaza, Palestine"/>
 
 </div>
 
 ---
 
-### About
+### <img src="https://cdn.simpleicons.org/laravel/8B5CF6" width="22" alt="Laravel"/> About me
 
-I'm a **Computer Systems Engineering graduate** and **Full-Stack Developer** with **2+ years of hands-on experience** building web applications and backend systems.
+I'm **Alaa Eldin Al-Dohdar**, a **Computer Systems Engineering graduate** and **Full-Stack Developer** with **2+ years of hands-on experience** delivering web applications, secure APIs, and SaaS platforms.
 
-My main focus is **Laravel backend engineering**, secure REST APIs, multi-tenant SaaS architecture, and database design. I also build with React and integrate AI capabilities and automation into real-world products.
+My strongest area is **Laravel backend development**: authentication, authorization, REST APIs, multi-tenant architecture, and database design. I also build interfaces with **React** and integrate practical **AI and automation** features.
 
-Currently working as a **Backend Developer at HOSKADEV**.
+- 💼 **Backend Developer at HOSKADEV** · Remote
+- 🧩 Building **[WorkFlow](https://www.workflownets.com/)**, a project and team management SaaS
+- 🤖 Working with **Claude MCP, OpenAI APIs, n8n**, and AI-driven workflows
+- 🌍 Based in **Gaza, Palestine** · Open to remote opportunities
 
-### Toolbox
+### ⚡ Tech stack
+
+<div align="center">
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,sqlite&theme=dark" alt="PHP Laravel MySQL Redis SQLite"/>
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react&theme=dark" alt="HTML CSS Sass Bootstrap Tailwind JavaScript React"/>
+
+<br/><br/>
+
+**Developer Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode&theme=dark" alt="Git GitHub GitHub Actions Docker Linux Postman VS Code"/>
+
+<br/><br/>
+
+**AI & Automation**
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Claude_&_MCP-6D28D9?style=for-the-badge&logoColor=white" alt="Claude and MCP"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Power_Automate-2563EB?style=for-the-badge&logoColor=white" alt="Power Automate"/>
+
+</div>
+
+---
+
+### 🚀 Featured work
 
 <table>
 <tr>
-<td width="50%" valign="top"><strong>Backend & Architecture</strong><br/><sub>PHP · Laravel · REST APIs · MySQL · Redis · Multi-tenancy · RBAC</sub></td>
-<td width="50%" valign="top"><strong>Frontend & Delivery</strong><br/><sub>React · JavaScript · Tailwind CSS · Git · Docker · GitHub Actions</sub></td>
-</tr>
-<tr>
-<td valign="top"><strong>AI & Automation</strong><br/><sub>OpenAI API · Claude · MCP · n8n · Power Automate</sub></td>
-<td valign="top"><strong>Quality & Security</strong><br/><sub>Authentication · Authorization · Audit Logs · Postman · CI/CD</sub></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-### Selected work
+#### 🌌 [WorkFlow — SaaS Platform](https://www.workflownets.com/)
 
-<table>
-<tr>
-<td valign="top">
-<strong><a href="https://www.workflownets.com/">WorkFlow — AI-Powered SaaS Management Platform</a></strong><br/>
+**Backend Developer · Team Leader**
+
+Intelligent multi-tenant platform for projects, tasks, employees, meetings, clients, and finances.
+
+**Highlights:** AI data import, AI project health, AI meeting summaries, Claude MCP integration, secure APIs and role-based access.
+
 <sub>Laravel · PHP · MySQL · REST APIs · AI · MCP</sub>
-<br/><br/>
-Multi-tenant SaaS for projects, teams, meetings, clients, and financial operations. My backend work includes secure APIs, AI data import, project health analysis, AI meeting summaries, and Claude MCP integration.
-<br/><br/>
-<a href="https://www.workflownets.com/">Explore WorkFlow →</a>
+
 </td>
-</tr>
-<tr>
-<td valign="top">
-<strong><a href="https://labbaass.com/">Clinic Management System</a></strong><br/>
-<sub>Laravel · MySQL · Bootstrap</sub>
+<td width="50%" valign="top">
+
+#### 🏥 [Clinic Management](https://labbaass.com/)
+
+Healthcare administration system supporting appointment scheduling and streamlined clinic workflows.
+
+<sub>Laravel · PHP · MySQL · Bootstrap</sub>
+
 <br/><br/>
-A healthcare management platform for appointment scheduling and clinic administration. <a href="https://labbaass.com/">View project →</a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<strong><a href="https://managment.hoskadev.com/">Enterprise Project Management System</a></strong><br/>
+
+#### 📊 [Enterprise Project Management](https://managment.hoskadev.com/)
+
+Internal system for project tracking, task assignment, and team collaboration.
+
 <sub>Laravel · React · MySQL</sub>
-<br/><br/>
-An internal platform for managing projects, tasks, and team collaboration. <a href="https://managment.hoskadev.com/">View project →</a>
+
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>Professional experience & more engineering work</b></summary>
+<summary><b>💼 Professional experience & education</b></summary>
 
 <br/>
 
-- **Backend Developer — HOSKADEV** (Nov 2025–present): backend logic, API design, databases, deployments, and production support.
-- **Backend API Developer — ePluribus Health** (May 2026): Laravel APIs, role-based access control, and audit logging.
-- **Web Development Intern — HOSKADEV** (Apr–Oct 2025): 320 hours of hands-on development with Laravel and React.
-- **Healthcare Backend API & Audit System:** secure administrative services with RBAC and audit trails.
-- **Education:** B.Eng. in Computer Systems Engineering, Al-Azhar University, Gaza (2026).
+- **HOSKADEV — Backend Developer** · Nov 2025–Present: Laravel applications, REST APIs, databases, and production support.
+- **ePluribus Health — Backend API Developer (Contract)** · May 2026: RBAC, audit logging, and secure APIs.
+- **HOSKADEV — Web Development Intern** · Apr–Oct 2025: 320 hours, Laravel and React.
+- **Bachelor of Engineering, Computer Systems Engineering** · Al-Azhar University, Gaza (2026).
 
 </details>
 
-### Contributions
+---
+
+### 📊 GitHub analytics
 
 <div align="center">
 
-<!-- Snake is published by GitHub Actions to the output branch. -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlaaMhammad&show_icons=true&hide_border=true&theme=midnight-purple&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaMhammad&layout=compact&hide_border=true&theme=midnight-purple" alt="Most used public GitHub languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AlaaMhammad&theme=midnight-purple&hide_border=true" alt="Contribution streak"/>
+
+</div>
+
+### 🐍 Animated contributions
+
+<div align="center">
+
+<!-- Generated daily by GitHub Actions. Appears after the first successful run. -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaaMhammad/AlaaMhammad/output/github-contribution-grid-snake-dark.svg"/>
-<img width="100%" src="https://raw.githubusercontent.com/AlaaMhammad/AlaaMhammad/output/github-contribution-grid-snake.svg" alt="Animated contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaaMhammad/AlaaMhammad/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/AlaaMhammad/AlaaMhammad/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation moving through GitHub contributions"/>
 </picture>
 
 <details>
-<summary><b>Explore my 3D contribution calendar</b></summary>
+<summary><b>🌌 Show 3D contribution calendar</b></summary>
 <br/>
-<img src="https://raw.githubusercontent.com/AlaaMhammad/AlaaMhammad/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution calendar"/>
+<img src="https://raw.githubusercontent.com/AlaaMhammad/AlaaMhammad/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" width="96%"/>
 </details>
 
 </div>
@@ -110,6 +155,11 @@ An internal platform for managing projects, tasks, and team collaboration. <a hr
 ---
 
 <div align="center">
-<sub>Thoughtful engineering. Reliable software. Real-world impact.</sub><br/>
-<sub><a href="mailto:alaamhammad2003@gmail.com">Contact</a> · <a href="https://www.linkedin.com/in/alaa2003">LinkedIn</a> · <a href="https://www.workflownets.com/">WorkFlow</a></sub>
+
+**Let's build something meaningful.**
+
+<a href="mailto:alaamhammad2003@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alaa"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090414,45:251043,100:6D28D9&height=85&section=footer" width="100%" alt="Purple footer wave"/>
+
 </div>
