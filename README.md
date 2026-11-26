@@ -10,6 +10,7 @@
 
 <br/>
 
+<a href="https://alaaeldinaldohdar.dev"><img src="https://img.shields.io/badge/Website-alaaeldinaldohdar.dev-443069?style=flat-square" alt="Alaa Aldohdar website"/></a>
 <a href="https://www.linkedin.com/in/alaa2003"><img src="https://img.shields.io/badge/LinkedIn-443069?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://brightgaza.com/talents/477"><img src="https://img.shields.io/badge/Portfolio-443069?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:alaamhammad2003@gmail.com"><img src="https://img.shields.io/badge/Contact-443069?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -20,6 +21,8 @@
 ### <img src="https://cdn.simpleicons.org/laravel/A78BFA" width="20" alt="" /> Engineering software that makes an impact
 
 I'm **Alaa Eldin Mohammed Al-Dohdar**, a **Computer Systems Engineering graduate** and **Full-Stack Developer**, with **2+ years of experience** building real-world software. My specialty is **Laravel backend engineering**: REST APIs, secure authentication, database design, RBAC, and multi-tenant SaaS systems.
+
+**Website:** [alaaeldinaldohdar.dev](https://alaaeldinaldohdar.dev) · Also known as **Alaa Mhammad** ([علاء محمد](https://alaaeldinaldohdar.dev/ar)).
 
 **Currently:** Backend Developer at **HOSKADEV** · Gaza, Palestine · Open to remote opportunities.
 
